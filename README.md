@@ -1,5 +1,6 @@
-![App Screenshot](screenshot.png)
+
 # 📝 To-Do List Web App (Flask)
+![App Screenshot](screenshot.png)
 
 A simple and efficient task management web application built using Python Flask. This project allows users to manage daily tasks with a clean and user-friendly interface.
 
